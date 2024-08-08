@@ -1,0 +1,19 @@
+Welcome to Awesome Frames Application Version 1.0.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App").
+By using the App, you agree to the terms of this Privacy Policy. If you do not agree with the terms, please do not access the App.
+
+Information We Collect
+None
+Non-Personal Information
+None
+
+Device information: Model, operating system, and other technical information about your device.
+Usage data: Pages or screens viewed, time spent on the App, and other interaction data.
+
+Location information: None
+
+We may use the information we collect for various purposes, including to:
+Provide, operate, and maintain the App.
+Improve, personalize, and expand the App.
+Understand and analyze how you use the App.
+
